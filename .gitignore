@@ -23,14 +23,6 @@ Thumbs.db
 # IDE-specific files
 .vscode/
 .idea/
-*.suo
-*.ntvs_analysis.dat
-*.ncb
-*.suo
-*.user
-*.userosscache
-*.sln.docstates
-*.code-workspace
 
 # Optional lock files
 package-lock.json
